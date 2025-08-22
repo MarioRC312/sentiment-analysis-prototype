@@ -1,0 +1,57 @@
+data = {
+    "texto": [
+        # POSITIVAS
+        "Me encanta programar en Python",
+        "Hoy es un día maravilloso",
+        "Me gusta aprender cosas nuevas",
+        "Qué buena película he visto",
+        "El viaje fue espectacular",
+        "Estoy emocionado por este proyecto",
+        "Todo salió mejor de lo esperado",
+        "Qué gran experiencia fue este viaje",
+        "La comida estaba deliciosa",
+        "Me siento muy feliz hoy",
+        "Qué sorpresa tan agradable",
+        "El servicio fue excelente",
+        "Disfruté mucho la reunión",
+        "Me alegra haber venido",
+        "Estoy muy motivado con mi trabajo",
+        "El paisaje era hermoso",
+        "La música me pone de buen humor",
+        "Ha sido un día productivo",
+        "Me siento con mucha energía",
+        "La presentación fue un éxito",
+
+        # NEGATIVAS
+        "Odio los atascos de tráfico",
+        "Estoy muy triste por las noticias",
+        "Este producto es terrible",
+        "No me gusta esperar en las colas",
+        "La comida estaba malísima",
+        "Qué decepción tan grande",
+        "No quiero volver a este lugar",
+        "No soporto este clima horrible",
+        "La reunión fue un desastre",
+        "Estoy cansado de tantos problemas",
+        "El servicio fue pésimo",
+        "La película fue aburridísima",
+        "Hoy ha sido un día horrible",
+        "Me siento frustrado con los resultados",
+        "El viaje fue una pérdida de tiempo",
+        "Estoy de mal humor",
+        "Nada salió como esperaba",
+        "El lugar estaba sucio",
+        "El trato fue muy malo",
+        "No recomendaría esta experiencia"
+    ],
+    "sentimiento": [
+        "positivo","positivo","positivo","positivo","positivo",
+        "positivo","positivo","positivo","positivo","positivo",
+        "positivo","positivo","positivo","positivo","positivo",
+        "positivo","positivo","positivo","positivo","positivo",
+        "negativo","negativo","negativo","negativo","negativo",
+        "negativo","negativo","negativo","negativo","negativo",
+        "negativo","negativo","negativo","negativo","negativo",
+        "negativo","negativo","negativo","negativo","negativo"
+    ]
+}
