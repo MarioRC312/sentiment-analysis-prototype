@@ -28,7 +28,7 @@ texto,sentimiento
 "Odio los atascos de tráfico",negativo
 "Hoy es un día maravilloso",positivo
 "Este producto es terrible",negativo
-
+```
 
 ## Cómo ejecutar el proyecto
 
